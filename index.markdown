@@ -2,6 +2,11 @@
 layout: page
 ---
 
+You have reached my personal website. Unfortunately, my work-life balance is
+not great, so the information you will find here is mostly about my
+(academic) work.
+
+## Interests
 My research interests include
 * Formal Verification,
 * Logic and Automata, and
@@ -9,7 +14,7 @@ My research interests include
 
 See [my DBLP entry](https://dblp.org/pid/135/6266.html) for a list of publications.
 
-## What is Verification?
+### What is verification?
 Hardware and software systems are hard to design and implement correctly. I
 study formal logics that can be used to precisely specify what such systems
 are intended to do, and formal models like automata and games to abstract
@@ -20,12 +25,12 @@ specifications.
 You can also watch a [short video](https://youtu.be/vgFFFUj9sYQ) where I
 describe how I ended up studying verification.
 
-# Research Team
+## Research team
 I am the head of the Formal Techniques in Software Engineering (FOTS) lab, a
 part of the [AnSyMo research
 group](https://www.uantwerpen.be/en/research-groups/ansymo/).
 
-##  PhD Students
+###  PhD Students
 * Raphaël Berthon (jointly supervised with J.-F. Raskin)
 * Ritam Raha (jointly supervised with N. Fijalkow)
 * Tim Leys
@@ -36,7 +41,7 @@ group](https://www.uantwerpen.be/en/research-groups/ansymo/).
 * Shrisha Rao
 * Alejandro González
 
-# Tools
+## Verification tools
 I am part of the organizational team for the [Reactive Synthesis Competition
 SYNTCOMP](http://www.syntcomp.org/) for which I have developed the tools
 [AbsSynthe](https://github.com/gaperez64/AbsSynthe)
