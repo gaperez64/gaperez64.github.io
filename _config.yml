@@ -21,7 +21,9 @@
 title: Guillermo A. Perez
 email: guillermoalberto.perez@uantwerpen.be
 description: >- # this means to ignore newlines until "baseurl:"
-  This is Guillermo's website.
+  You have reached my personal website. Unfortunately, my work-life balance is
+  not great so the information you will find here is mostly about my
+  (academic) professional activities.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
