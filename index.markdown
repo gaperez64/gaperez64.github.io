@@ -31,17 +31,6 @@ I am the head of the Formal Techniques in Software Engineering (FOTS) lab, a
 part of the [AnSyMo research
 group](https://www.uantwerpen.be/en/research-groups/ansymo/).
 
-###  PhD Students
-* Raphaël Berthon (jointly supervised with J.-F. Raskin)
-* Ritam Raha (jointly supervised with N. Fijalkow)
-* Tim Leys
-* Dennis Groß (jointly supervised with N. Jansen)
-* Gaëtan Staquet (jointly supervised with V. Bruyère)
-* Florent Delgrange (jointly supervised with Ann Nowé)
-* Ramesh Krishnamurthy (jointly supervised with J. Denil)
-* Shrisha Rao
-* Alejandro González
-
 ## Verification tools
 I am part of the organizational team for the [Reactive Synthesis Competition
 SYNTCOMP](http://www.syntcomp.org/) for which I have developed the tools
