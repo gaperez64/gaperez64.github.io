@@ -5,8 +5,6 @@ date:   2022-09-14
 categories: jekyll update
 ---
 
-# Parameter Synthesis Problems for One-Counter Automata
-
 One-counter automata are well-studied classical models in the field of formal
 verification that extend classical finite-state automata with a counter whose
 value can range over non-negative integers and be tested for zero. The updates
