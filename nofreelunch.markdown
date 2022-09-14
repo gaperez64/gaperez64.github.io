@@ -13,7 +13,7 @@ Antwerp to theoretical topics in computer science. For the *academic year
 M.G.005**.  The preliminary agenda is as follows.
 * 7/10/2022 - Guillermo A. Perez: Solving everything with logic (or Decidable theories)
 * 21/10/2022 - Ritam Raha: Software verification via logic
-* 4/11/2022
+* 4/11/2022 - Floris Geerts: TBA
 * 18/11/2022
 * 2/12/2022 - Benny van Houdt: TBA
 * 16/12/2022 - Benny van Houdt: TBA
