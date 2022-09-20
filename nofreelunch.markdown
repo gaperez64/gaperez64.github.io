@@ -11,8 +11,9 @@ The TCS Seminar is meant to expose master's students from the University of
 Antwerp to theoretical topics in computer science. For the *academic year
 2022-2023,* the seminar will take place biweekly on Fridays at **11:30am in
 M.G.005**.  The preliminary agenda is as follows.
-* 7/10/2022 - Guillermo A. Perez: Solving everything with logic (or Decidable theories)
-* 21/10/2022 - Ritam Raha: Software verification via logic
+* 7/10/2022 - Guillermo A. Perez: [Solving everything with logic (or Decidable theories)](jekyll/update/2022/09/13/talk-guillermo.html)
+* 21/10/2022 - Ritam Raha: [Software verification via
+  logic](jekyll/update/2022/09/14/talk-ritam.html)
 * 4/11/2022 - Floris Geerts: TBA
 * 18/11/2022
 * 2/12/2022 - Benny van Houdt: TBA
