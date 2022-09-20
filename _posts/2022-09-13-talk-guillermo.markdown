@@ -32,3 +32,8 @@ Make sure to fill in [this form](https://forms.gle/5UwjsWNHsmvr65Hs6).
 * What is (un)decidability? Complexity?
   * Machines en Berekenbaarheid (Course)
   * Algorithms and Complexity (Course)
+* Fun links
+  * The Golden Ticket P, NP, and the Search for the Impossible (Book), Lance
+    Fortnow
+  * Logicomix: An Epic Search for Truth (Book), Apostolos Doxiadis and
+    Christos H. Papadimitriou
