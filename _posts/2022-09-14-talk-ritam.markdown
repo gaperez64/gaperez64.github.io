@@ -43,6 +43,6 @@ Make sure to fill in [this form](https://forms.gle/Wqdv5fg8ebth63Wv5).
   * Discrete Mathematics (Course)
   * Toegepaste Logica (Course)
   * Wiskundige Logica (Course)
-* What is (un)decidability? complexity?
+* What is (un)decidability? Complexity?
   * Machines en Berekenbaarheid (Course)
   * Algorithms and Complexity (Course)
