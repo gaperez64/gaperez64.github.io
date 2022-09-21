@@ -5,7 +5,18 @@ date:   2022-09-13
 categories: jekyll update
 ---
 
-TBA
+David Hilbert's program proposed to ground all mathematical theories to a
+single simple system. One of the properties of such a system that Hilbert
+deemed desirable was "Decidability". While Hilbert's program was shown to be
+impossible to achieve by Gödel (and later Turing), several interesting and
+non-trivial theories exist for which algorithms have been found! In this talk,
+we will mention some of them. First, we will focus on propositional logic, its
+satisfiability problem and its connection to the P vs NP question, as well as
+its (previously unthinkable) practical applications. Then, we will mention a
+few other theories of interest which are known to be decidable.
+
+This talk is partially based on Moshe Vardi's talk "The SAT Revolution:
+Solving, Sampling, and Counting".
 
 # Speaker
 Guillermo A. Perez is assistant professor at the Department of Computer
@@ -33,6 +44,7 @@ Make sure to fill in [this form](https://forms.gle/5UwjsWNHsmvr65Hs6).
   * Machines en Berekenbaarheid (Course)
   * Algorithms and Complexity (Course)
 * Fun links
+  * [M. Vardi's talk](https://slideslive.com/38894537/the-sat-revolution-solving-sampling-and-counting)
   * The Golden Ticket P, NP, and the Search for the Impossible (Book), Lance
     Fortnow
   * Logicomix: An Epic Search for Truth (Book), Apostolos Doxiadis and
