@@ -10,7 +10,7 @@ permalink: /nofreelunch/
 The TCS Seminar is meant to expose master's students from the University of
 Antwerp to theoretical topics in computer science. For the *academic year
 2022-2023,* the seminar will take place biweekly on Fridays at **11:30am in
-M.G.005**.  The preliminary agenda is as follows.
+M.A.143**.  The preliminary agenda is as follows.
 * 7/10/2022 - Guillermo A. Perez: [Solving everything with logic (or Decidable theories)]({% post_url 2022-09-13-talk-guillermo %})
 * 21/10/2022 - Ritam Raha: [Software verification via
   logic]({% post_url 2022-09-14-talk-ritam %})
