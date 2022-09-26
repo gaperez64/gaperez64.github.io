@@ -24,7 +24,7 @@ Science. His research concerns logic and automata theory, formal verification
 of software and hardware, as well as learning theory.
 
 # Time and Place
-Friday 7/10/2022 at 11:30am in M.G.005
+Friday 7/10/2022 at 11:30am in M.A.143
 
 # Registration
 Participation is free, but registration is compulsory.

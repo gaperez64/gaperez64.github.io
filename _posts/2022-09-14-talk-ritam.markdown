@@ -25,7 +25,7 @@ University. His expertise concerns the specification, modellisation, and
 automatic verification of software systems.
 
 # Time and Place
-Friday 21/10/2022 at 11:30am in M.G.005
+Friday 21/10/2022 at 11:30am in M.A.143
 
 # Registration
 Participation is free, but registration is compulsory.
