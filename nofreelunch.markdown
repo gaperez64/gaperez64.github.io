@@ -14,7 +14,8 @@ M.A.143**.  The preliminary agenda is as follows.
 * 7/10/2022 - Guillermo A. Perez: [Solving everything with logic (or Decidable theories)]({% post_url 2022-09-13-talk-guillermo %})
 * 21/10/2022 - Ritam Raha: [Software verification via
   logic]({% post_url 2022-09-14-talk-ritam %})
-* 4/11/2022 - Floris Geerts: Expressive power of graph neural networks
+* 4/11/2022 - Floris Geerts: [Expressive power of graph neural networks]({%
+  post_url 2022-10-04-talk-floris %})
 * 18/11/2022
 * 2/12/2022 - Benny van Houdt: TBA
 * 16/12/2022 - Benny van Houdt: TBA
