@@ -18,6 +18,8 @@ few other theories of interest which are known to be decidable.
 This talk is partially based on Moshe Vardi's talk "The SAT Revolution:
 Solving, Sampling, and Counting".
 
+You can watch [a recording of the seminar talk here](https://msweb.uantwerpen.be/Mediasite/Play/522ec22100b4491aabdd4039b4bdf2751d)
+
 # Speaker
 Guillermo A. Perez is assistant professor at the Department of Computer
 Science. His research concerns logic and automata theory, formal verification
