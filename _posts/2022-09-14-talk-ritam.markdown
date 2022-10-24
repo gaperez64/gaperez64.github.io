@@ -19,6 +19,8 @@ for the above-mentioned synthesis problems. I will also present
 polynomial-space algorithms for the special cases of the problem where
 parameters can only be used in counter tests.
 
+You can see [the slides of the presentation here](/raha22.pdf)
+
 # Speaker
 Ritam Raha is a 4th year PhD student at UAntwerp and LaBRI-Bordeaux
 University. His expertise concerns the specification, modellisation, and
