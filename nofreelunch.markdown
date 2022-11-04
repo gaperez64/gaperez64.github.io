@@ -16,7 +16,7 @@ M.A.143**.  The preliminary agenda is as follows.
   logic]({% post_url 2022-09-14-talk-ritam %})
 * 4/11/2022 - Floris Geerts: [Expressive power of graph neural networks]({%
   post_url 2022-10-04-talk-floris %})
-* 18/11/2022
+* 18/11/2022 - **No seminar**
 * 2/12/2022 - Benny van Houdt: TBA
 * 16/12/2022 - Benny van Houdt: TBA
 
