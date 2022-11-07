@@ -15,6 +15,8 @@ theory, and query languages in particular, to graph neural networks,
 and hereby gain insights in the expressive
 power of these networks.
 
+You can see [the slides of the presentation here](/geerts22.pdf)
+
 # Speaker
 Floris Geerts is professor at the Department of Computer Science. His
 research concerns database theory, data quality and graph learning.
