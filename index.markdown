@@ -31,6 +31,9 @@ I am the head of the Formal Techniques in Software Engineering (FOTS) lab, a
 part of the [AnSyMo research
 group](https://www.uantwerpen.be/en/research-groups/ansymo/).
 
+### PhD alumni
+* [Dr. Raphaël Berthon](https://di.ulb.ac.be/verif/berthon/)
+
 ## Verification tools
 I am part of the organizational team for the [Reactive Synthesis Competition
 SYNTCOMP](http://www.syntcomp.org/) for which I have developed the tools
