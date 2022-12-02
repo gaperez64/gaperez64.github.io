@@ -13,6 +13,8 @@ been proven. In this talk we uncover the set of conflict graphs for which a
 simple explicit expression can be obtained for this unique vector of back-off
 rates.
 
+You can see [the slides of the presentation here](/vhoudt22.pdf)
+
 # Speaker
 Benny van Houdt is professor at the Department of Computer Science.
 
