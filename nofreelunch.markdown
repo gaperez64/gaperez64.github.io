@@ -18,7 +18,8 @@ M.A.143**.  The preliminary agenda is as follows.
   post_url 2022-10-04-talk-floris %})
 * 18/11/2022 - **No seminar**
 * 2/12/2022 - Benny van Houdt: [Explicit back-off rates for achieving target throughputs in CSMA/CA networks]({% post_url 2022-11-10-talk-benny %})
-* 16/12/2022 - TBA
+* 16/12/2022 - Sarah Winter: [Transducers and their Decision problems]({%
+  post_url 2022-12-05-sarah %})
 
 You will find below posts regarding upcoming and past talks given during the
 seminar. If you want to attend the seminar, please sign up via the
