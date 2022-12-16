@@ -18,6 +18,8 @@ decidability and closure properties, finite transducers do not. Most notably,
 equivalence of finite transducers is undecidable. In this talk, we take a look
 at different kinds of transducers and explore some of their properties.
 
+You can see [the slides of the presentation here](/winter22.pdf)
+
 # Speaker
 Sarah Winter is a post-doctoral researcher at Universite libre de Bruxelles
 (ULB).
