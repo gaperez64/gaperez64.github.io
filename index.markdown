@@ -9,9 +9,9 @@ Antwerp](https://www.uantwerpen.be/en/staff/guillermoalberto-perez/).
 
 ## Interests
 My research interests include
-* Formal Verification,
-* Logic and Automata, and
-* Artificial Intelligence.
+* Logic and Automata Theory,
+* Formal Verification, and
+* Learning Theory (I am a member of the [Ellis society](https://ellis.eu/)).
 
 See [my DBLP entry](https://dblp.org/pid/135/6266.html) for a list of publications.
 
@@ -38,5 +38,4 @@ group](https://www.uantwerpen.be/en/research-groups/ansymo/).
 I am part of the organizational team for the [Reactive Synthesis Competition
 SYNTCOMP](http://www.syntcomp.org/) for which I have developed the tools
 [AbsSynthe](https://github.com/gaperez64/AbsSynthe)
-and [Acacia-Bonsai](https://github.com/gaperez64/acacia-bonsai). See [my GitHub
-page](https://github.com/gaperez64) for a complete list of my tool projects.
+and [Acacia-Bonsai](https://github.com/gaperez64/acacia-bonsai).
