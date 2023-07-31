@@ -2,9 +2,9 @@
 layout: page
 ---
 
-You have reached my personal website! Unfortunately, my work-life balance is
-not great, so the information you will find here is mostly about my
-(academic) work as a [tenure-track assistant professor at the University of
+You have reached my personal website! The information you will find here is
+mostly about my (academic) work as a [tenure-track assistant professor at the
+University of
 Antwerp](https://www.uantwerpen.be/en/staff/guillermoalberto-perez/).
 
 ## Interests
