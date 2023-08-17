@@ -9,7 +9,7 @@ permalink: /nofreelunch/
 
 The TCS Seminar is meant to expose master's students from the University of
 Antwerp to theoretical topics in computer science. For the *academic year
-2023-2024,* the seminar will take place biweekly on TBA at **TBAam/pm in
+2023-2024,* the seminar will take place biweekly on TBA at **TBA in
 TBA**.  The preliminary agenda is as follows.
 * Wout Bittremieux: Confident peptide-spectrum matching in the absence of
   ground truth data
