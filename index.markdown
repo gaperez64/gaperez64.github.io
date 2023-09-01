@@ -3,7 +3,7 @@ layout: page
 ---
 
 You have reached my personal website! The information you will find here is
-mostly about my (academic) work as a [tenure-track assistant professor at the
+mostly about my (academic) work as a [(tenured) associate professor at the
 University of
 Antwerp](https://www.uantwerpen.be/en/staff/guillermoalberto-perez/).
 
