@@ -9,15 +9,15 @@ permalink: /nofreelunch/
 
 The TCS Seminar is meant to expose master's students from the University of
 Antwerp to theoretical topics in computer science. For the *academic year
-2023-2024,* the seminar will take place biweekly on TBA at **TBA in
-TBA**.  The preliminary agenda is as follows.
-* Toon Calders: Discrimination and bias detection in AI models
-* Wout Bittremieux: Confident peptide-spectrum matching in the absence of
+2023-2024,* the seminar will take place biweekly on Mondays at **12:45 in
+M.A.143**.  The preliminary agenda is as follows.
+* 23/10/2023 - Toon Calders: Discrimination and bias detection in AI models
+* 13/11/2023 - Wout Bittremieux: Confident peptide-spectrum matching in the absence of
   ground truth data
-* Karim Becher: Systems of polynomial equations (and the Chevalley-Warning
+* 20/11/2023 - Karim Becher: Systems of polynomial equations (and the Chevalley-Warning
   theorem)
-* Jose Oramas: Model interpretation from visual explanations
-* Gwenaël Joret: Structural graph theory
+* 27/11/2023 - Jose Oramas: Model interpretation from visual explanations
+* 04/12/2023 - Gwenaël Joret: Structural graph theory
 
 You will find below posts regarding upcoming and past talks given during the
 seminar. If you want to attend the seminar, please sign up via the
