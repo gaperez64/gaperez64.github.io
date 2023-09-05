@@ -10,7 +10,7 @@ permalink: /nofreelunch/
 The TCS Seminar is meant to expose master's students from the University of
 Antwerp to theoretical topics in computer science. For the *academic year
 2023-2024,* the seminar will take place on Mondays at **12:45 in
-M.A.143**.  The preliminary agenda is as follows.
+M.A.143 (Middelheim campus)**.  The preliminary agenda is as follows.
 * 23/10/2023 - Toon Calders: Discrimination and bias detection in AI models
 * 13/11/2023 - Wout Bittremieux: Confident peptide-spectrum matching in the absence of
   ground truth data
