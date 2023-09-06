@@ -16,7 +16,7 @@ M.A.143 (Middelheim campus)**.  The preliminary agenda is as follows.
   ground truth data
 * 20/11/2023 - Karim Becher: Systems of polynomial equations (and the Chevalley-Warning
   theorem)
-* 27/11/2023 - Jose Oramas: Model interpretation from visual explanations
+* 27/11/2023 - Jose Oramas: Weakly-supervised object localization via class activation mapping
 * 04/12/2023 - Gwenaël Joret: Structural graph theory
 
 You will find below posts regarding upcoming and past talks given during the
