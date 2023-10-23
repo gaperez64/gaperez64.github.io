@@ -9,6 +9,8 @@ categories: jekyll update
 
 Discrimination and bias in artificial intelligence (AI) models have raised significant ethical concerns, emphasizing the need for a thorough understanding and effective detection methods. This presentation delves into the multifaceted landscape of discrimination and bias within AI models. We first define and characterize different forms of discrimination and bias that can manifest in AI systems, exploring their societal implications and ethical considerations. Next, we elucidate the underlying mechanisms and sources of bias in AI, including biased training data, algorithmic biases, and biased representation. We then present an array of techniques and methodologies for detecting and mitigating biases in AI models, encompassing fairness-aware algorithms, fairness metrics, and adversarial testing. Additionally, we discuss challenges and open research questions in this domain, emphasizing the importance of ongoing research and interdisciplinary collaboration to mitigate the harmful effects of bias in AI and promote the development of fair and ethical AI systems.
 
+The slides of the presentation [are available here](/toon23.pdf).
+
 
 # Speaker
 Toon Calders is professor at the Department of Computer Science.
@@ -21,4 +23,5 @@ Participation is free, but registration is compulsory.
 Make sure to fill in [this form](https://forms.gle/MS14cK9PBmGeuMrP8).
 
 # References and Related Reading
-TBA
+The presentation was based on results from [this paper](https://link.springer.com/article/10.1007/s10994-023-06401-1) and literature
+referenced therein.
