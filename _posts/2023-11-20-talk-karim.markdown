@@ -16,7 +16,7 @@ Monday 20/11/2023 at 12:45pm in M.A.143
 
 # Registration
 Participation is free, but registration is compulsory.
-Make sure to fill in [this form](https://forms.gle/Rr8GhMXtmWJZ2Yq28).
+Make sure to fill in [this form](https://forms.gle/RQs8Lm9hSw59HAWt9).
 
 # References and Related Reading
 TBA
