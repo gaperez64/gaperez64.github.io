@@ -11,6 +11,8 @@ In this presentation, I will begin by providing an overview of the sequence data
 
 Lastly, I will describe how semi-supervised learning techniques can be harnessed to improve the accuracy and sensitivity of spectrum annotation. By combining traditional methods with advanced machine learning algorithms, this provides a powerful approach for PSM validation that not only minimizes false positives but also increases the detection of true positive matches.
 
+The slides of the presentation [are available here](/wout23.pdf).
+
 # Speaker
 Wout Bittremieux is professor at the Department of Computer Science.
 
