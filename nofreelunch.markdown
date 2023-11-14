@@ -16,7 +16,7 @@ M.A.143 (Middelheim campus)**.  The preliminary agenda is as follows.
 * 13/11/2023 - Wout Bittremieux: [Confident peptide-spectrum matching in the absence of
   ground truth data]({% post_url 2023-11-13-talk-wout %})
 * 20/11/2023 - Karim Becher: [Systems of polynomial equations over finite fields]({% post_url 2023-11-20-talk-karim %})
-* 27/11/2023 - Jose Oramas: Weakly-supervised object localization via class activation mapping
+* 27/11/2023 - Jose Oramas: [Weakly-supervised object localization via class activation mapping]({% post_url 2023-11-27-talk-jose %})
 * 04/12/2023 - Gwenaël Joret: Structural graph theory
 
 You will find below posts regarding upcoming and past talks given during the

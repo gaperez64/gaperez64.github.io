@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Weakly-supervised object localization via class activation mapping"
+date:   2023-11-27
+categories: jekyll update
+---
+
+Learning how to localize objects in images without relying on data paired with expensive location-specific annotations is a highly desirable capability. Therefore, it is no surprise that this task, usually referred to as Weakly-supervised Object Localization (WSOL), has received increased attention in recent years. One of the most common problems of weakly supervised object localization is that of inaccurate object coverage. In the context of state-of-the-art methods based on Class Activation Mapping, this is caused either by localization maps which focus, exclusively, on the most discriminative region of the objects of interest, or by activations occurring in background regions.
+In this seminar we will touch on the object detection/localization task and its associated challenges. We will further discuss two representation regularization mechanisms that can be applied to address the localization precision problems present in previous methods.
+
+# Speaker
+Jose Oramas is professor at the Department of Computer Science.
+
+# Time and Place
+Monday 27/11/2023 at 12:45pm in M.A.143
+
+# Registration
+Participation is free, but registration is compulsory.
+Make sure to fill in [this form](https://forms.gle/mByd9uRHS5z4XJNz7).
+
+# References and Related Reading
+[MinMaxCAM: Improving object coverage for CAM-based Weakly Supervised Object Localization](https://www.bmvc2021-virtualconference.com/assets/papers/0221.pdf)
+Kaili Wang, José Oramas, and Tinne Tuytelaars.
+British Machine Vision Conference (BMVC) 2021.
