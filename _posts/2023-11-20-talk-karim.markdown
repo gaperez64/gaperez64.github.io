@@ -8,6 +8,8 @@ categories: jekyll update
 We consider systems of polynomials over a finite field F and are interested in the set of their common zeros. A famous theorem due to Chevalley and Warning from 1935 tells us that, if there are more variables than polynomials, the size of that set of zeros is a multiple of the prime number p which is the characteristic of the field F.
 I will give some mathematical context for the interest of this theorem and then discuss some questions (and answers) from modern research related to it.
 
+An extended abstract of the presentation [is available here](/becher23.pdf).
+
 # Speaker
 Karim J. Becher is professor at the Department of Mathematics.
 
