@@ -24,6 +24,8 @@ about these graphs today. This is an exciting research area to work in
 at the moment. In my talk I will give a gentle introduction to the
 area, assuming no background in graph theory.
 
+The slides of the presentation [are available here](/joret23.pdf).
+
 # Speaker
 Gwenaël Joret is professor at the Universite libre de Bruxelles (ULB).
 
