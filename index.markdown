@@ -32,8 +32,10 @@ part of the [AnSyMo research
 group](https://www.uantwerpen.be/en/research-groups/ansymo/).
 
 ### PhD alumni
-* [Dr. Raphaël Berthon](https://di.ulb.ac.be/verif/berthon/)
-* [Dr. Ritam Raha](https://ritamraha.github.io/)
+* [Dr. Raphaël Berthon](https://di.ulb.ac.be/verif/berthon/) (co-sup'd with Prof.
+  J.-F. Raskin)
+* [Dr. Ritam Raha](https://ritamraha.github.io/) (co-sup'd with Dr. N.
+  Fijalkow)
 
 ## Verification tools
 I am part of the organizational team for the [Reactive Synthesis Competition
