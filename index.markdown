@@ -36,6 +36,7 @@ group](https://www.uantwerpen.be/en/research-groups/ansymo/).
   J.-F. Raskin)
 * [Dr. Ritam Raha](https://ritamraha.github.io/) (co-sup'd with Dr. N.
   Fijalkow)
+* [Dr. Tim Leys](http://timleys.be/)
 
 ## Verification tools
 I am part of the organizational team for the [Reactive Synthesis Competition
