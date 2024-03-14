@@ -24,7 +24,10 @@ develop algorithms that enable the verification of systems against their
 specifications.
 
 You can also watch a [short video](https://youtu.be/vgFFFUj9sYQ) where I
-describe how I ended up studying verification.
+describe how I ended up studying verification or [this nice video about
+reachability and
+verification](https://youtu.be/IzSs_gJDVzI?si=Nkv4JFuFy8pWmjeL) featuring some
+of my favorite colleagues.
 
 ## Research team
 I am the head of the Formal Techniques in Software Engineering (FOTS) lab, a
