@@ -40,6 +40,9 @@ group](https://www.uantwerpen.be/en/research-groups/ansymo/).
 * [Dr. Ritam Raha](https://ritamraha.github.io/) (co-sup'd with Dr. N.
   Fijalkow)
 * [Dr. Tim Leys](http://timleys.be/)
+* [Dr. Dennis Groß](https://dennisgross.org/) (co-sup'd with Profs. F.
+  Vaandrager, N. Jansen)
+
 
 ## Verification tools
 I am part of the organizational team for the [Reactive Synthesis Competition
