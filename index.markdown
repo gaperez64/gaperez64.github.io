@@ -42,6 +42,9 @@ group](https://www.uantwerpen.be/en/research-groups/ansymo/).
 * [Dr. Tim Leys](http://timleys.be/)
 * [Dr. Dennis Groß](https://dennisgross.org/) (co-sup'd with Profs. F.W.
   Vaandrager, N. Jansen)
+* [Dr. Florent Delgrange](https://delgrange.me/) (co-sup'd with Prof. A. Nowé)
+* [Dr. Gaëtan Staquet](https://www.gaetanstaquet.com/) (co-sup'd with Prof. V.
+  Bruyère)
 
 
 ## Verification tools
