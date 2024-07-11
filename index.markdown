@@ -35,16 +35,16 @@ part of the [AnSyMo research
 group](https://www.uantwerpen.be/en/research-groups/ansymo/).
 
 ### PhD alumni
-* [Dr. Raphaël Berthon](https://di.ulb.ac.be/verif/berthon/) (co-sup'd with Prof.
-  J.-F. Raskin)
-* [Dr. Ritam Raha](https://ritamraha.github.io/) (co-sup'd with Dr. N.
-  Fijalkow)
-* [Dr. Tim Leys](http://timleys.be/)
-* [Dr. Dennis Groß](https://dennisgross.org/) (co-sup'd with Profs. F.W.
-  Vaandrager, N. Jansen)
 * [Dr. Florent Delgrange](https://delgrange.me/) (co-sup'd with Prof. A. Nowé)
 * [Dr. Gaëtan Staquet](https://www.gaetanstaquet.com/) (co-sup'd with Prof. V.
   Bruyère)
+* [Dr. Tim Leys](http://timleys.be/)
+* [Dr. Dennis Groß](https://dennisgross.org/) (co-sup'd with Profs. F.W.
+  Vaandrager, N. Jansen)
+* [Dr. Ritam Raha](https://ritamraha.github.io/) (co-sup'd with Dr. N.
+  Fijalkow)
+* [Dr. Raphaël Berthon](https://di.ulb.ac.be/verif/berthon/) (co-sup'd with Prof.
+  J.-F. Raskin)
 
 
 ## Verification tools
