@@ -34,6 +34,7 @@ I am the head of the Formal Techniques in Software Engineering (FOTS) lab, a
 part of the [AnSyMo research
 group](https://www.uantwerpen.be/en/research-groups/ansymo/).
 
+### Join us!
 If you are interested in joining the team as a post-doctoral researcher, do
 contact me. I am particularly keen on supporting [FWO postdoc
 fellowship](https://www.fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/junior-postdoctoral-fellowship/) or MSCA postdoc fellowship proposals.
