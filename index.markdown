@@ -7,8 +7,8 @@ mostly about my (academic) work as a [(tenured) associate professor at the
 University of
 Antwerp](https://www.uantwerpen.be/en/staff/guillermoalberto-perez/).
 
-## Interests
-My research interests include
+## Research
+My interests include
 * Logic and Automata Theory,
 * Formal Verification, and
 * Learning Theory (I am a member of the [Ellis society](https://ellis.eu/)).
@@ -29,10 +29,17 @@ reachability and
 verification](https://youtu.be/IzSs_gJDVzI?si=Nkv4JFuFy8pWmjeL) featuring some
 of my favorite colleagues.
 
-## Research team
+## Group
 I am the head of the Formal Techniques in Software Engineering (FOTS) lab, a
 part of the [AnSyMo research
-group](https://www.uantwerpen.be/en/research-groups/ansymo/).
+group](https://www.uantwerpen.be/en/research-groups/ansymo/). 
+
+### Current members
+* Shrisha Rao (2021-)
+* Ramesh Krishnamurthy (2021-)
+* [Kasper Engelen](https://kasperengelen.github.io/) (2021-)
+* Allen Joseph (__planned__ 2024-, based in ULB @ Brussels)
+* [Marnix Suilen](https://www.marnixsuilen.nl/) (__planned__ 2024-)
 
 ### Join us!
 If you are interested in joining the team as a post-doctoral researcher, do
@@ -52,7 +59,7 @@ fellowship](https://www.fwo.be/en/support-programmes/all-calls/postdoctoral-rese
   J.-F. Raskin)
 
 
-## Verification tools
+## Tools
 I am part of the organizational team for the [Reactive Synthesis Competition
 SYNTCOMP](http://www.syntcomp.org/) for which I have developed the tools
 [AbsSynthe](https://github.com/gaperez64/AbsSynthe)
