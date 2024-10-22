@@ -39,7 +39,7 @@ group](https://www.uantwerpen.be/en/research-groups/ansymo/).
 * Ramesh Krishnamurthy (2021-)
 * [Kasper Engelen](https://kasperengelen.github.io/) (2021-)
 * Allen Joseph (2024-, based at ULB @ Brussels)
-* [Marnix Suilen](https://www.marnixsuilen.nl/) (__planned__ 2024-)
+* [Marnix Suilen](https://www.marnixsuilen.nl/) (2024-)
 
 ### Join us!
 If you are interested in joining the team as a post-doctoral researcher, do
