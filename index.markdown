@@ -37,7 +37,7 @@ group](https://www.uantwerpen.be/en/research-groups/ansymo/).
 ### Current members
 * Shrisha Rao (2021-)
 * Ramesh Krishnamurthy (2021-)
-* [Kasper Engelen](https://kasperengelen.github.io/) (2021-)
+* [Kasper Engelen](https://kasperengelen.github.io/) (2022-)
 * Allen Joseph (2024-, based at ULB @ Brussels)
 * [Marnix Suilen](https://www.marnixsuilen.nl/) (2024-)
 
