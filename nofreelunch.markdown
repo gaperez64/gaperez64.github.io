@@ -9,15 +9,14 @@ permalink: /nofreelunch/
 
 The TCS Seminar is meant to expose master's students from the University of
 Antwerp to theoretical topics in computer science. For the *academic year
-2023-2024,* the seminar will take place on Mondays at **12:45 in
+2024-2025,* the seminar will take place on Wednesdays at **13:45 in
 M.A.143 (Middelheim campus)**.  The preliminary agenda is as follows.
-* 23/10/2023 - Toon Calders: [Discrimination and bias detection in AI
-  models]({% post_url 2023-10-23-talk-toon %})
-* 13/11/2023 - Wout Bittremieux: [Confident peptide-spectrum matching in the absence of
-  ground truth data]({% post_url 2023-11-13-talk-wout %})
-* 20/11/2023 - Karim Becher: [Systems of polynomial equations over finite fields]({% post_url 2023-11-20-talk-karim %})
-* 27/11/2023 - Jose Oramas: [Weakly-supervised object localization via class activation mapping]({% post_url 2023-11-27-talk-jose %})
-* 04/12/2023 - Gwenaël Joret: [Introduction to the structure of planar graphs]({% post_url 2023-12-04-talk-gwenael %})
+* 26/02/2025 - TBA
+* 05/03/2025 - TBA
+* 12/03/2025 - TBA
+* 19/03/2025 - TBA
+* 26/03/2025 - TBA
+* 02/04/2025 - TBA
 
 You will find below posts regarding upcoming and past talks given during the
 seminar. If you want to attend the seminar, please sign up via the
