@@ -19,7 +19,7 @@ Participation is free, but registration is compulsory.
 Make sure to fill in ...
 
 # References and Related Reading
-This talk will overlap for a large part with the first sections of [this tutorial](https://www.bartbogaerts.eu/talks/veripb-tutorial-series/)
+This talk will overlap for a large part with the first sections of [this tutorial](https://www.bartbogaerts.eu/talks/veripb-tutorial-series/).
 Reading material & concrete examples can be found there. 
 
 [Here is a concrete pointer for suggested reading](https://lucris.lub.lu.se/ws/portalfiles/portal/117886509/thesis_final_pdf.pdf)
