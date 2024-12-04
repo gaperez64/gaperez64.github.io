@@ -12,7 +12,8 @@ Antwerp to theoretical topics in computer science. For the *academic year
 2024-2025,* the seminar will take place on Wednesdays at **13:45 in
 M.A.143 (Middelheim campus)**.  The preliminary agenda is as follows.
 * 26/02/2025 - Bart Bogaerts: [Combinatorial Solving with Provably Correct Results]({% post_url 2025-02-26-talk-bbogaerts %})
-* 05/03/2025 - TBA
+* 05/03/2025 - Jan Van den Bussche: [Reasoning About Expressiveness and
+  Decidability of Query Languages]({% post_url 2025-05-03-talk-jvdbussche %})
 * 12/03/2025 - TBA
 * 19/03/2025 - TBA
 * 26/03/2025 - TBA
