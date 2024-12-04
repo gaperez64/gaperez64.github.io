@@ -13,7 +13,7 @@ Antwerp to theoretical topics in computer science. For the *academic year
 M.A.143 (Middelheim campus)**.  The preliminary agenda is as follows.
 * 26/02/2025 - Bart Bogaerts: [Combinatorial Solving with Provably Correct Results]({% post_url 2025-02-26-talk-bbogaerts %})
 * 05/03/2025 - Jan Van den Bussche: [Reasoning About Expressiveness and
-  Decidability of Query Languages]({% post_url 2025-05-03-talk-jvdbussche %})
+  Decidability of Query Languages]({% post_url 2025-03-05-talk-jvdbussche %})
 * 12/03/2025 - TBA
 * 19/03/2025 - TBA
 * 26/03/2025 - TBA
