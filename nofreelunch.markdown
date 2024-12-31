@@ -15,7 +15,7 @@ M.A.143 (Middelheim campus)**.  The preliminary agenda is as follows.
 * 05/03/2025 - Jan Van den Bussche: [Reasoning About Expressiveness and
   Decidability of Query Languages]({% post_url 2025-03-05-talk-jvdbussche %})
 * 12/03/2025 - Floris Geerts (TBC)
-* 19/03/2025 - Sarah Leyder (TBC)
+* 19/03/2025 - Sarah Leyder: [Causal discovery, modeling and inference: introduction]({% post_url 2025-03-19-talk-sleyder %})
 * 26/03/2025 - Benny Van Houdt (TBC)
 * 02/04/2025 - Ingo Blechschmidt (TBC)
 
