@@ -16,7 +16,7 @@ Wednesday 26/02/2025 at 13:45pm in M.A.143
 
 # Registration
 Participation is free, but registration is compulsory.
-Make sure to fill in ...
+Make sure to fill in [this form](https://forms.gle/YnrVbm1s6TLZNYuQ9).
 
 # References and Related Reading
 This talk will overlap for a large part with the first sections of [this tutorial](https://www.bartbogaerts.eu/talks/veripb-tutorial-series/).
