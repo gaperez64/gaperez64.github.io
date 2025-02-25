@@ -16,7 +16,7 @@ Wednesday 05/03/2025 at 13:45pm in M.A.143
 
 # Registration
 Participation is free, but registration is compulsory.
-Make sure to fill in ...
+Make sure to fill in [this form](https://forms.gle/Ypi9VF64NuNGD7gK9).
 
 # References and Related Reading
 * [On the primitivity of operators in SPARQL](https://www.sciencedirect.com/science/article/abs/pii/S002001901400057X)
