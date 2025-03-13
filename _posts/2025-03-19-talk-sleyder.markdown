@@ -26,7 +26,7 @@ Wednesday 19/03/2025 at 13:45pm in M.A.143
 
 # Registration
 Participation is free, but registration is compulsory.
-Make sure to fill in ...
+Make sure to fill in [this form.](https://forms.gle/5MPjnK7N4Rug8SDG7)
 
 # References and Related Reading
 ## A general reference:
