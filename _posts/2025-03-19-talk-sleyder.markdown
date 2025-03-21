@@ -34,7 +34,8 @@ Make sure to fill in [this form.](https://forms.gle/5MPjnK7N4Rug8SDG7)
 
 ## References related to our research:
 * Shohei Shimizu. LiNGAM: Non-gaussian methods for estimating causal
-  structures. Behaviormetrika, 41(1):65–98, 2014.  Sarah Leyder, Jakob
+  structures. Behaviormetrika, 41(1):65–98, 2014.
+* Sarah Leyder, Jakob
   Raymaekers, and Tim Verdonck. TSLiNGAM: Directlingam under heavy tails.
-  Journal of Computational and Graphical Statistics, 2024.  A fun read:
+  Journal of Computational and Graphical Statistics, 2024. 
 * Judea Pearl and Dana Mackenzie. The Book of Why: The New Science of Cause and Effect. 2018.
