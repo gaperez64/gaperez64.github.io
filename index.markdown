@@ -30,7 +30,7 @@ verification](https://youtu.be/IzSs_gJDVzI?si=Nkv4JFuFy8pWmjeL) featuring some
 of my favorite colleagues.
 
 ## Group
-I am the head of the Formal Techniques in Software Engineering (FOTS) lab, a
+I am the head of the Automated Reasoning in Antwerp (ARA) lab, a
 part of the [AnSyMo research
 group](https://www.uantwerpen.be/en/research-groups/ansymo/). 
 
@@ -38,7 +38,6 @@ group](https://www.uantwerpen.be/en/research-groups/ansymo/).
 * Shrisha Rao (2021-)
 * Ramesh Krishnamurthy (2021-)
 * [Kasper Engelen](https://kasperengelen.github.io/) (2022-)
-* Allen Joseph (2024-, based at ULB @ Brussels)
 * [Marnix Suilen](https://www.marnixsuilen.nl/) (2024-)
 
 ### Join us!
