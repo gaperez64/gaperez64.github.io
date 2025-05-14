@@ -29,6 +29,13 @@ reachability and
 verification](https://youtu.be/IzSs_gJDVzI?si=Nkv4JFuFy8pWmjeL) featuring some
 of my favorite colleagues.
 
+My research, mostly in the context formal methods for
+trustworthy AI, has been featured in the media too:
+* [Our "outstanding" AAAI 2025 paper on a decidable class of partially observable Markov decision processes](https://www.lemonde.fr/blog/binaire/?p=16271) was the topic of two blog posts in Le Monde's [binaire](https://www.lemonde.fr/blog/binaire/a-propos-de-binaire/), in French
+* [Results from Dennis Groß' collaboration with TNO on attacking models for
+  image classification](https://www.newscientist.com/article/2253881-small-sticker-could-hide-a-fighter-jet-from-an-enemy-drone/)
+  were featured in an article of [NewScientist](https://www.newscientist.com/)
+
 ## Group
 I am the head of the Automated Reasoning in Antwerp (ARA) lab, a
 part of the [AnSyMo research
