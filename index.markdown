@@ -50,7 +50,7 @@ group](https://www.uantwerpen.be/en/research-groups/ansymo/).
 ### Join us!
 If you are interested in joining the team as a post-doctoral researcher, do
 contact me. I am particularly keen on supporting [FWO postdoc
-fellowship](https://www.fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/junior-postdoctoral-fellowship/) or MSCA postdoc fellowship proposals.
+fellowship](https://www.fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/junior-postdoctoral-fellowship/) or [MSCA postdoc fellowship](https://www.uantwerpen.be/en/research/policy/funding/horizon-europe/pillar1/msca/marie-curie/) proposals.
 
 ### PhD alumni
 * [Dr. Florent Delgrange](https://delgrange.me/) (co-sup'd with Prof. A. Nowé)
