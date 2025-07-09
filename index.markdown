@@ -42,10 +42,9 @@ part of the [AnSyMo research
 group](https://www.uantwerpen.be/en/research-groups/ansymo/). 
 
 ### Current members
-* Shrisha Rao (2021-)
 * Ramesh Krishnamurthy (2021-)
 * [Kasper Engelen](https://kasperengelen.github.io/) (2022-)
-* [Marnix Suilen](https://www.marnixsuilen.nl/) (2024-)
+* [Dr. Marnix Suilen](https://www.marnixsuilen.nl/) (2024-)
 
 ### Join us!
 If you are interested in joining the team as a post-doctoral researcher, do
@@ -53,10 +52,11 @@ contact me. I am particularly keen on supporting [FWO postdoc
 fellowship](https://www.fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/junior-postdoctoral-fellowship/) or [MSCA postdoc fellowship](https://www.uantwerpen.be/en/research/policy/funding/horizon-europe/pillar1/msca/marie-curie/) proposals.
 
 ### PhD alumni
-* [Dr. Florent Delgrange](https://delgrange.me/) (co-sup'd with Prof. A. Nowé)
+* Dr. Shrisha Rao
 * [Dr. Gaëtan Staquet](https://www.gaetanstaquet.com/) (co-sup'd with Prof. V.
   Bruyère)
 * [Dr. Tim Leys](http://timleys.be/)
+* [Dr. Florent Delgrange](https://delgrange.me/) (co-sup'd with Prof. A. Nowé)
 * [Dr. Dennis Groß](https://dennisgross.org/) (co-sup'd with Profs. F.W.
   Vaandrager, N. Jansen)
 * [Dr. Ritam Raha](https://ritamraha.github.io/) (co-sup'd with Dr. N.
