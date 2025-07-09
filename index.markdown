@@ -42,9 +42,10 @@ part of the [AnSyMo research
 group](https://www.uantwerpen.be/en/research-groups/ansymo/). 
 
 ### Current members
-* Ramesh Krishnamurthy (2021-)
-* [Kasper Engelen](https://kasperengelen.github.io/) (2022-)
+* Vanessa Flügel (2025-)
 * [Dr. Marnix Suilen](https://www.marnixsuilen.nl/) (2024-)
+* [Kasper Engelen](https://kasperengelen.github.io/) (2022-)
+* Ramesh Krishnamurthy (2021-)
 
 ### Join us!
 If you are interested in joining the team as a post-doctoral researcher, do
