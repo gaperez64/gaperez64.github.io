@@ -27,7 +27,8 @@ You can also watch a [short video](https://youtu.be/vgFFFUj9sYQ) where I
 describe how I ended up studying verification or [this nice video about
 reachability and
 verification](https://youtu.be/IzSs_gJDVzI?si=Nkv4JFuFy8pWmjeL) featuring some
-of my favorite colleagues.
+of my favorite colleagues. You may also enjoy [this fantastic teaser
+Shaull Almagor prepared for a paper we coauthored on continuous VASS.](https://youtu.be/pbZnhTc9zss?si=AhHh06dIUVD4_PBG)
 
 My research, mostly in the context of formal methods for
 trustworthy AI, has been featured in the media too:
@@ -36,8 +37,8 @@ trustworthy AI, has been featured in the media too:
   image classification](https://www.newscientist.com/article/2253881-small-sticker-could-hide-a-fighter-jet-from-an-enemy-drone/)
   were featured in an article of [NewScientist](https://www.newscientist.com/)
 
-## Group
-I am the head of the Automated Reasoning in Antwerp (ARA) lab, a
+## Automated Reasoning in Antwerp (ARA)
+I am the head of the ARA lab, a
 part of the [AnSyMo research
 group](https://www.uantwerpen.be/en/research-groups/ansymo/). 
 
