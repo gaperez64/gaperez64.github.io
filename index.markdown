@@ -9,9 +9,10 @@ Antwerp](https://www.uantwerpen.be/en/staff/guillermoalberto-perez/).
 
 ## Research
 My interests include
-* Logic and Automata Theory,
+* Logic in Computer Science
+* Automata Theory,
 * Formal Verification, and
-* Learning Theory (I am a member of the [Ellis society](https://ellis.eu/)).
+* Trustworthy AI (I am a member of the [Ellis society](https://ellis.eu/)).
 
 See [my DBLP entry](https://dblp.org/pid/135/6266.html) for a list of publications.
 
