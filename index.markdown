@@ -44,6 +44,7 @@ part of the [AnSyMo research
 group](https://www.uantwerpen.be/en/research-groups/ansymo/). 
 
 ### Current members
+* Kevin Dubrulle, co-sup'd with Prof. V. Bruyère (2025-)
 * Vanessa Flügel (2025-)
 * [Dr. Marnix Suilen](https://www.marnixsuilen.nl/) (2024-)
 * [Kasper Engelen](https://kasperengelen.github.io/) (2022-)
