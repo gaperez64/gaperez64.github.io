@@ -11,7 +11,9 @@ The TCS Seminar is meant to expose master's students from the University of
 Antwerp to theoretical topics in computer science. For the *academic year
 2025-2026,* the seminar will take place on Wednesdays at **13:45 in
 M.A.143 (Middelheim campus)**.  The preliminary agenda is as follows.
-[comment]: <> * 26/02/2025 - Bart Bogaerts: [Combinatorial Solving with Provably Correct Results]({% post_url 2025-02-26-talk-bbogaerts %})
+{% comment %}
+* 26/02/2025 - Bart Bogaerts: [Combinatorial Solving with Provably Correct Results]({% post_url 2025-02-26-talk-bbogaerts %})
+{% endcomment %}
 * 25/02/2026 - Bart Goethals: Bayesian Recommendation
 * 11/03/2026 - Pierre Vandenhove: Probabilistic Automata x Partially Observable Markov Decision Processes
 * TBD - Jan Goedgebeur: Introduction to Computational Graph Theory
