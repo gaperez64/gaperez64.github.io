@@ -15,7 +15,7 @@ M.A.143 (Middelheim campus)**.  The preliminary agenda is as follows.
 * 26/02/2025 - Bart Bogaerts: [Combinatorial Solving with Provably Correct Results]({% post_url 2025-02-26-talk-bbogaerts %})
 {% endcomment %}
 * 25/02/2026 - Bart Goethals: Bayesian Recommendation
-* 04/03/2026 - Jan Goedgebeur: [Introduction to Computational Graph Theory]({% post_url 2026-04-03-talk-jangoed %})
+* 04/03/2026 - Jan Goedgebeur: [Introduction to Computational Graph Theory]({% post_url 2026-03-04-talk-jangoed %})
 * 11/03/2026 - Pierre Vandenhove: Probabilistic Automata x Partially Observable Markov Decision Processes
 * TBA
 * TBA
