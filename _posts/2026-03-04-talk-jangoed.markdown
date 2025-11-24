@@ -18,7 +18,7 @@ examples of how these generation algorithms have helped to gain new insights
 and solve problems in mathematics and in chemistry.
 
 # Speaker
-Jan Goedgebeur is professor at the KU Leuven.
+Jan Goedgebeur is [professor at the KU Leuven](https://people.cs.kuleuven.be/~jan.goedgebeur/).
 
 # Time and Place
 Monday 04/03/2026 at 13:45pm in M.A.143
