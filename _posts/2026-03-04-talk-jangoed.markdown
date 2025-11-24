@@ -27,4 +27,4 @@ Monday 04/03/2026 at 13:45pm in M.A.143
 Participation is free, but registration is compulsory. 
 
 # References and Related Reading
-TBA
+You may be interested in [this previous presentation on a related topic]({% post_url 2023-12-04-talk-gwenael %}).
