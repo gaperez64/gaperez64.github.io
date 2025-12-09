@@ -18,7 +18,8 @@ M.A.143 (Middelheim campus)**.  The preliminary agenda is as follows.
 * 04/03/2026 - Jan Goedgebeur: [Introduction to Computational Graph Theory]({% post_url 2026-03-04-talk-jangoed %})
 * 11/03/2026 - Pierre Vandenhove: Probabilistic Automata x Partially Observable Markov Decision Processes
 * 18/03/2026 - Thiago D. Simão: [Offline Reinforcement Learning - Safe Policy Improvement]({% post_url 2026-03-18-offline_RL_SPI %})
-* TBA
+* 22/04/2026 - Stijn Vansummeren: Advanced Topics in Complex Event
+  Recognition
 
 You will find below posts regarding upcoming and past talks given during the
 seminar. If you want to attend the seminar, please sign up via the
