@@ -16,7 +16,7 @@ M.A.143 (Middelheim campus)**.  The preliminary agenda is as follows.
 {% endcomment %}
 * 18/02/2026 - Senne Berden: [Prediction + Optimisation]({% post_url
   2026-02-18-talk-senne %})
-* 25/02/2026 - Bart Goethals: Bayesian Recommendation
+* 25/02/2026 - Noah Daniels: Bayesian Recommendation
 * 04/03/2026 - Jan Goedgebeur: [Introduction to Computational Graph Theory]({% post_url 2026-03-04-talk-jangoed %})
 * 11/03/2026 - Pierre Vandenhove: Probabilistic Automata x Partially Observable Markov Decision Processes
 * 18/03/2026 - Thiago D. Simão: [Offline Reinforcement Learning - Safe Policy Improvement]({% post_url 2026-03-18-offline_RL_SPI %})
