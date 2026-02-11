@@ -21,7 +21,7 @@ and solve problems in mathematics and in chemistry.
 Jan Goedgebeur is [professor at the KU Leuven](https://people.cs.kuleuven.be/~jan.goedgebeur/).
 
 # Time and Place
-Monday 04/03/2026 at 13:45pm in M.A.143
+Wednesday 04/03/2026 at 13:45pm in M.G.006.
 
 # Registration
 Participation is free, but registration is compulsory. 

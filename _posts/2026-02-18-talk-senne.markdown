@@ -11,7 +11,7 @@ Machine learning models are usually trained to be as accurate as possible: the m
 Senne Berden is a PhD student at the KU Leuven.
 
 # Time and Place
-Monday 18/02/2026 at 13:45pm in M.A.143
+Wednesday 18/02/2026 at 13:45pm in M.G.006
 
 # Registration
 Participation is free, but registration is compulsory: [please fill in this
