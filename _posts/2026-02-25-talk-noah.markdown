@@ -19,4 +19,8 @@ Wednesday 25/02/2026 at 13:45pm in M.G.006.
 Participation is free, but registration is compulsory. 
 
 # References and Related Reading
-TBD
+* https://dl.acm.org/doi/10.1145/963770.963776
+* https://dl.acm.org/doi/10.1145/3308558.3313710
+* https://www.semanticscholar.org/paper/A-comparison-of-event-models-for-naive-bayes-text-McCallum-Nigam/04ce064505b1635583fa0d9cc07cac7e9ea993cc
+
+And optionally the [Recommender systems: the textbook](http://ndl.ethernet.edu.et/bitstream/123456789/88451/1/2016_Book_RecommenderSystems.pdf) chapters 2 and 3, but the essentials are covered in the first paper linked above.
