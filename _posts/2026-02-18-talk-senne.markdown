@@ -18,5 +18,5 @@ Participation is free, but registration is compulsory: [please fill in this
 form](https://forms.gle/S2THb8U4U72VeZHA7) so that we can ensure there's sandwiches for everyone 
 
 # References and Related Reading
-[Survey on decision-focused learning](https://www.jair.org/index.php/jair/article/view/15320)
-[Our recent NeurIPS paper on solver-free decision-focused learning](https://arxiv.org/abs/2505.22224)
+* [Survey on decision-focused learning](https://www.jair.org/index.php/jair/article/view/15320)
+* [Our recent NeurIPS paper on solver-free decision-focused learning](https://arxiv.org/abs/2505.22224)
