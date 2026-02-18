@@ -16,7 +16,7 @@ Noah Daniëls is a PhD student in our department of computer science.
 Wednesday 25/02/2026 at 13:45pm in M.G.006.
 
 # Registration
-Participation is free, but registration is compulsory. 
+Participation is free, but [registration is compulsory](https://forms.gle/uiiVgfiiVJDf9GcGA). 
 
 # References and Related Reading
 * https://dl.acm.org/doi/10.1145/963770.963776
