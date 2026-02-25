@@ -24,7 +24,7 @@ Jan Goedgebeur is [professor at the KU Leuven](https://people.cs.kuleuven.be/~ja
 Wednesday 04/03/2026 at 13:45pm in M.G.006.
 
 # Registration
-Participation is free, but registration is compulsory. 
+Participation is free, but [registration is compulsory](https://forms.gle/3YBkcn8kKBqCetam8). 
 
 # References and Related Reading
 You may be interested in [this previous presentation on a related topic]({% post_url 2023-12-04-talk-gwenael %}).
