@@ -9,6 +9,8 @@ Quantifying the similarity between items is a fundamental challenge in building 
 
 By adopting this perspective, we show how two new similarity measures can be derived from the Bernoulli and Multinomial distributions. We will discuss the importance of probabilistic smoothing and why choosing the right probability distribution is essential for accuracy. Finally, we demonstrate how the widely used Cosine Similarity can be reframed as the solution to a specific optimization problem. This transition from intuitive shortcuts to formal theory provides a new lens through which to view classical tools and opens a path for more rigorous research in the field.
 
+You can find [the slides used during the presentation here.](/noah26.pdf)
+
 # Speaker
 Noah Daniëls is a PhD student in our department of computer science.
 
