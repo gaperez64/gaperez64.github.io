@@ -18,7 +18,7 @@ PAs were initially studied as a theoretical model. Yet, they saw a resurgence of
 Wednesday 11/03/2026 at 13:45pm in M.G.006.
 
 # Registration
-Participation is free, but registration is compulsory. 
+Participation is free, but [registration is compulsory](https://forms.gle/iLJbZXatnmnHBHFu5). 
 
 # References and Related Reading
 * Foundational reference on probabilistic automata: Michael O. Rabin. "Probabilistic Automata". Information and Control 6(3): 230-245 (1963).
