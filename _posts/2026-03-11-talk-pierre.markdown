@@ -11,6 +11,8 @@ Introduced in 1963 by Rabin, PAs were designed to give additional modelling powe
 
 PAs were initially studied as a theoretical model. Yet, they saw a resurgence of interest through the more general model of POMDPs, used in AI since the 1990s. POMDPs model stochastic environments where an agent must make sequential decisions. Building on the mechanics of PAs, the agent in a POMDP also receives some partial information about the current state at every time step (hence the "partially observable" in the name). This model has applications in fields such as robotics: robots must make decisions in stochastic environments using sensors that give them only partial information about their surroundings (e.g., they cannot see around a corner). We will discuss a few challenges in designing algorithms to synthesize optimal strategies in POMDPs.
 
+The slides used during the talk are [here](https://pierre-vandenhove.github.io/resources/slides/vandenhove_theorySeminarAntwerp26.pdf)
+
 # Speaker
 [Pierre Vandenhove is research associate at UMONS.](https://pierre-vandenhove.github.io/)
 
