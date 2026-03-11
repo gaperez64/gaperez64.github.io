@@ -18,7 +18,7 @@ We will present algorithms that leverage the behavior policy to compute an impro
 Monday 18/03/2026 at 13:45pm in M.A.143
 
 # Registration
-Participation is free, but registration is compulsory. 
+Participation is free, but [registration is compulsory](https://forms.gle/PA8WjMU66Q8mh3dC6). 
 
 # References and Related Reading
 
