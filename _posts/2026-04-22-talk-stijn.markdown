@@ -22,5 +22,6 @@ Participation is free, but [registration is compulsory](https://forms.gle/t13kWN
 You may be interested in the papers the content for this talk covers:
 * A Formal Framework for Complex Event Recognition ACM TODS 46(4), 2021
 * CORE: a Complex Event Recognition Engine VLDB 2022
-
+* https://dl.acm.org/doi/pdf/10.1145/3093742.3095106 (short paper by Stijn, from a long time ago, covering some basic ideas)
+* https://link.springer.com/article/10.1007/s00778-019-00557-w  (very long survey,  but sections 1 and 2 may provide some introduction)
 
