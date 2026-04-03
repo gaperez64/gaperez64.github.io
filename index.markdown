@@ -54,6 +54,9 @@ If you are interested in joining the team as a post-doctoral researcher, do
 contact me. I am particularly keen on supporting [FWO postdoc
 fellowship](https://www.fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/junior-postdoctoral-fellowship/) or [MSCA postdoc fellowship](https://www.uantwerpen.be/en/research/policy/funding/horizon-europe/pillar1/msca/marie-curie/) proposals.
 
+Current vacancies:
+* [Postdoc position on Automated Reasoning for Quantum Knowledge](https://www.uantwerpen.be/en/jobs/vacancies/academic-staff/?q=4367&descr=Postdoctoral-scholarship-holder-Automated-Reasoning-for-Quantum-Knowledge)
+
 ### PhD alumni
 * Dr. Ramesh Krishnamurthy
 * Dr. Shrisha Rao
