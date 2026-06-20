@@ -55,7 +55,12 @@ contact me. I am particularly keen on supporting [FWO postdoc
 fellowship](https://www.fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/junior-postdoctoral-fellowship/) or [MSCA postdoc fellowship](https://www.uantwerpen.be/en/research/policy/funding/horizon-europe/pillar1/msca/marie-curie/) proposals.
 
 Current vacancies:
-* [Postdoc position on Automated Reasoning for Quantum Knowledge](https://www.uantwerpen.be/en/jobs/vacancies/academic-staff/?q=4367&descr=Postdoctoral-scholarship-holder-Automated-Reasoning-for-Quantum-Knowledge)
+In the context of a project with [Alfons Laarman](https://alfons.laarman.com/)
+in Leiden, NL, and [Floris Geerts](https://fgeerts.github.io/) on classical
+automated reasoning for quantum systems, I am currently
+looking for:
+* Up to 2 postdoctoral researchers and
+* 1 PhD student.
 
 ### PhD alumni
 * Dr. Ramesh Krishnamurthy
