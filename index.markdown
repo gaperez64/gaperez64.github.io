@@ -59,8 +59,7 @@ In the context of a project with [Alfons Laarman](https://alfons.laarman.com/)
 in Leiden, NL, and [Floris Geerts](https://fgeerts.github.io/) on classical
 automated reasoning for quantum systems, I am currently
 looking for:
-* Up to 2 postdoctoral researchers and
-* 1 PhD student.
+* Up to 2 postdoctoral researchers.
 
 ### PhD alumni
 * Dr. Ramesh Krishnamurthy
