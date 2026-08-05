@@ -9,10 +9,10 @@ Antwerp](https://www.uantwerpen.be/en/staff/guillermoalberto-perez/).
 
 ## Research
 My interests include
+* Automata Theory
 * Logic in Computer Science
-* Automata Theory,
-* Formal Verification, and
-* Trustworthy AI (I am a member of the [Ellis society](https://ellis.eu/)).
+* Trustworthy AI (I am a member of the [Ellis society](https://ellis.eu/))
+* Theory of Quantum Computation
 
 See [my DBLP entry](https://dblp.org/pid/135/6266.html) for a list of publications.
 
@@ -49,17 +49,6 @@ group](https://www.uantwerpen.be/en/research-groups/ansymo/).
 * [Dr. Marnix Suilen](https://www.marnixsuilen.nl/) (2024-)
 * [Kasper Engelen](https://kasperengelen.github.io/) (2022-)
 
-### Join us!
-If you are interested in joining the team as a post-doctoral researcher, do
-contact me. I am particularly keen on supporting [FWO postdoc
-fellowship](https://www.fwo.be/en/support-programmes/all-calls/postdoctoral-researchers/junior-postdoctoral-fellowship/) or [MSCA postdoc fellowship](https://www.uantwerpen.be/en/research/policy/funding/horizon-europe/pillar1/msca/marie-curie/) proposals.
-
-Current vacancies:
-In the context of a project with [Alfons Laarman](https://alfons.laarman.com/)
-in Leiden, NL, and [Floris Geerts](https://fgeerts.github.io/) on classical
-automated reasoning for quantum systems, I am currently
-looking for:
-* Up to 2 postdoctoral researchers.
 
 ### PhD alumni
 * Dr. Ramesh Krishnamurthy
@@ -80,3 +69,7 @@ I am part of the organizational team for the [Reactive Synthesis Competition
 SYNTCOMP](http://www.syntcomp.org/) for which I have developed the tools
 [AbsSynthe](https://github.com/gaperez64/AbsSynthe)
 and [Acacia-Bonsai](https://github.com/gaperez64/acacia-bonsai).
+
+I also have a [quantum-circuit exact
+simulator](https://github.com/gaperez64/dlx4sop) that [seems be somewhat
+competitive](https://qccq-cgd.pages.dev/#/leaderboard)!
