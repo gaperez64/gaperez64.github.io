@@ -71,5 +71,5 @@ SYNTCOMP](http://www.syntcomp.org/) for which I have developed the tools
 and [Acacia-Bonsai](https://github.com/gaperez64/acacia-bonsai).
 
 I also have a [quantum-circuit exact
-simulator](https://github.com/gaperez64/dlx4sop) that [seems be somewhat
+simulator](https://github.com/gaperez64/dlx4sop) that [seems to be somewhat
 competitive](https://qccq-cgd.pages.dev/#/leaderboard)!
